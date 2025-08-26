@@ -36,7 +36,7 @@ public class Strings {
 		
 		System.out.print(count);
 	}
-	
+
 	public static void main(String args[]) {
 		Scanner ob = new Scanner(System.in);
 		String s = ob.nextLine();

@@ -1,6 +1,5 @@
 package Assignment;
 
-package assignment;
 class MyClass {
     static int count = 10;
 
@@ -100,7 +99,7 @@ class User{
 class Empty{
 	static int num;
 }
-public class Assignment {
+public class ques {
 	public static void main(String[]args) {
 //		System.out.println(MyClass.count);
 //        MyClass.display();

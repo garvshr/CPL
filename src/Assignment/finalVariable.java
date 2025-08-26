@@ -2,8 +2,9 @@ package Assignment;
 
 public class finalVariable {
 	final int var = 100;
-	
-	public static void main() {
+    private int value;
+
+    public static void main() {
 		finalVariable ob = new finalVariable();
 		System.out.println("Initially : " + ob.value);
 		
