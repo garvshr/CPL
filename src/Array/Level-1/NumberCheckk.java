@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class NumberCheck {
+public class NumberCheckk {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] numbers = new int[5];
